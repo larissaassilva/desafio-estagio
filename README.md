@@ -3,11 +3,9 @@
 # Desafio - Desenvolvedor Fullstack - Estágio
 Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnica como candidato ao cargo proposto.
 
-# Demonstração
-
-# Habilidades
-
 # Screenshot
+
+![v](./src/images/v.mp4)
 
 # Rodando localmente
 
@@ -23,3 +21,17 @@ Clone o projeto
   ```
   cd desafio-estagio
   ```
+
+  Instale as dependências
+
+  ```
+  npm install
+  ```
+
+  Para ver a aplicação no navegador 
+
+  ```
+  npx vite --open
+  ```
+ 
+
